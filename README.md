@@ -8,7 +8,7 @@ This project contains REST API tests written in Java using the JUnit framework, 
 - Follow these steps to execute the automation test suite from the command line:
 
 # Clone this repository to your local machine
-- https://github.com/virenkpatel108/Chip-Test.git
+- git clone https://github.com/virenkpatel108/Chip-Test.git
 
 # Navigate to the project directory:
 - cd purgomalum-viren
